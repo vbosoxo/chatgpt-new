@@ -31,7 +31,7 @@ ChatGPT 中文版是基于 OpenAI 的先进 ChatGPT 模型的本地化版本，�
 
 以下是一些推荐的 ChatGPT 中文版镜像网站，您可以在无需翻墙的情况下顺畅使用 ChatGPT：
 
-- [www.songshugpt.com](https://songshugpt.com)：ChatGPT 中文版，运行稳定近两年，支持 GPT-4、4o 和 o1、GPT-o3、deepseek、grok3 模型，并具备 AI 绘画功能。
+- [www.songshugpt.com](https://www.songshugpt.com)：ChatGPT 中文版，运行稳定近两年，支持 GPT-4、4o 和 o1、GPT-o3、deepseek、grok3 模型，并具备 AI 绘画功能。
 - [gptdog.online](https://gptdog.online)：ChatGPT 镜像网站，集成了最新 ChatGPT 模型，包括 GPT-4o、4o mini 和 o1，支持 AI 写作、编程助手、知识库及思维导图等功能。
 - [gptcat.net](https://gptcat.net)：提供多种 AI 工具，帮助用户掌握前沿技术知识。
 - [ai.panda.xyz](https://ai.panda.xyz)：支持 AI 绘画功能，适合创意人士。
@@ -63,7 +63,7 @@ ChatGPT 中文版是基于 OpenAI 的先进 ChatGPT 模型的本地化版本，�
 
 ## 5. 快速使用 ChatGPT 中文版的方法
 
-- **访问镜像站点**：选择一个推荐的镜像站点（如 [松鼠AI][www.songshugpt.com](https://songshugpt.com)）。
+- **访问镜像站点**：选择一个推荐的镜像站点（如 [松鼠AI][www.songshugpt.com](https://www.songshugpt.com)）。
 - **注册或直接使用**：
   - **扫码登录**：微信扫码即可快速访问，无需注册。
   - **免注册体验**：直接输入问题，立即获得智能解答。
